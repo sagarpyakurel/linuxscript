@@ -1,0 +1,4 @@
+ls.txt
+pwd.txt
+read.txt
+sample_text_file.txt
